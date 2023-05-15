@@ -1,4 +1,4 @@
-## Machine Learn Regression Light Gradient Boosting Machine
+## Machine Learn Regression Pycaret
 
 ### Install python (você vai precisar instalar estes pacotes)
 
